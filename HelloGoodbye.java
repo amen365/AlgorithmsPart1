@@ -4,5 +4,4 @@ public class HelloGoodbye {
         System.out.println(args[0]);
         System.out.println("and");
     }
-    
 }
