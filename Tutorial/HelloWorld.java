@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Compilation:  javac HelloWorld.java
+ *  Compilation:  javac HelloWorld.java (what you type in the terminal first to check)
  *  Execution:    java HelloWorld
  *
  *  Prints "Hello, World". By tradition, this is everyone's first program.
